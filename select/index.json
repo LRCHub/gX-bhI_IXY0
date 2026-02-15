@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "クワイエット",
+  "base_artist": "szri",
+  "createdAt": "2026-02-15T05:31:04.848037Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クワイエット・コンプレイント",
+      "artist": "Bloodred Hourglass",
+      "has_synced": true,
+      "path": "select/01_クワイエット・コンプレイント_Bloodred_Hourglass.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クワイエット",
+      "artist": "szri",
+      "has_synced": false,
+      "path": "select/pl_01_クワイエット_szri.txt"
+    }
+  ]
+}
